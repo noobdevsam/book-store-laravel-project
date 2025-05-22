@@ -8,7 +8,7 @@ A simple Book Store web application built with Laravel and Bootstrap. This proje
 
 <div align="center">
   
-[![Book Store Laravel Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/MxATPW3Ew_E?feature=shared)
 
 </div>
 
@@ -17,7 +17,7 @@ A simple Book Store web application built with Laravel and Bootstrap. This proje
 Or view it embedded below:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="Book Store Laravel Demo" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MxATPW3Ew_E?si=krQPZSn9qAAdHudW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
