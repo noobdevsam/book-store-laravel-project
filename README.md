@@ -14,11 +14,6 @@ A simple Book Store web application built with Laravel and Bootstrap. This proje
 
 > _Click the image above to watch the demo on YouTube!_
 
-Or view it embedded below:
-
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MxATPW3Ew_E?si=krQPZSn9qAAdHudW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 ---
 
